@@ -13,6 +13,6 @@ Jogo da cobrinha bem simples com alguns efeitos sonoros em Python
 - apt install python3-pygame
 - poetry install 
 - cd snake_game
-- python3** 
+- python3 .
 
 
