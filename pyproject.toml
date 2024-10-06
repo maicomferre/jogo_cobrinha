@@ -1,13 +1,13 @@
 [project]
-name = "pythonproject1"
+name = "Jogo da cobrinha"
 version = "0.1.0"
-description = "Add your description here"
+description = "Jogo da cobrinha"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
 
 [tool.poetry]
-name = "pythonproject1"
+name = "snake_game"
 version = "0.1.0"
 description = ""
 authors = ["Maicom Ferreira <maicomferre3242@gmail.com>"]
