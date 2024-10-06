@@ -1,0 +1,75 @@
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+VENV/
+
+# Ignore IDE settings
+*.idea
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore compiled code
+*.class
+*.o
+*.so
+
+# Ignore packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore node_modules and dependencies
+node_modules/
+npm-debug.log
+
+# Ignore coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.nox/
+nosetests.xml
+test-results.xml
+*.cover
+.cache/
+junitxml
+
+# macOS
+*.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
